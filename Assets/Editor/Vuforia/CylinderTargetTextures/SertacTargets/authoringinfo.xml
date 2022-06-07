@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <VuforiaUnityInfo version="7.0">
     <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="SodaSmall" version="3.0" targetId="fe062a002dfd4caf9e6a0f7cf264ac00" sideLength="83.000000" topDiameter="45.000000" bottomDiameter="45.000000" sideImage="SodaSmall.Body_scaled.jpg"/>
         <CylinderTarget name="sodacan" version="3.0" targetId="bd36cc425a8b49379a39f9ca277d60aa" sideLength="95.000000" topDiameter="53.000000" bottomDiameter="53.000000" sideImage="sodacan.Body_scaled.jpg" topImage="sodacan.Top_scaled.jpg" bottomImage="sodacan.Bottom_scaled.jpg"/>
     </TargetSet>
 </VuforiaUnityInfo>

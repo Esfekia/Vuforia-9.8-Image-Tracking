@@ -2,6 +2,7 @@
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
     <ImageTarget name="chips" size="1.000000 0.773438" />
+    <CylinderTarget name="SodaSmall" sideLength="83.000000"/>
     <CylinderTarget name="sodacan" sideLength="95.000000"/>
   </Tracking>
 </QCARConfig>
